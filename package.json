@@ -1,6 +1,7 @@
 {
-  "name": "vue-project",
-  "version": "0.0.0",
+  "version": "0.0.4",
+  "name": "sanitize-email",
+  "description": "A directive developed with Vue.js that sanitizes the entered email address reactively.",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -13,6 +14,19 @@
     "sanitize-email": "^0.0.3",
     "vue": "^3.2.47"
   },
+  "keywords": [
+    "sanitize-email",
+    "email",
+    "sanitize",
+    "mail",
+    "email-validation",
+    "validation",
+    "email-checker",
+    "vuejs",
+    "vue3"
+  ],
+  "author": "Mustafa Dalga",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^18.14.2",
     "@vitejs/plugin-vue": "^4.0.0",
