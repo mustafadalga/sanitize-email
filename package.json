@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "name": "sanitize-email",
   "description": "A directive developed with Vue.js that sanitizes the entered email address reactively.",
   "type": "module",

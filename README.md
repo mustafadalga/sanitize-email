@@ -112,7 +112,7 @@ const email = ref("");
 ```
 
 * Example 4
-* 
+*
 ```
 <script>
 export default {
@@ -128,6 +128,9 @@ export default {
   <input v-sanitize-email="email" v-model="email" type="text" />
 </template>
 ```
+
+## Demo
+* https://sanitize-email.netlify.app/
 
 ## License
 [![License](https://img.shields.io/badge/LICENSE-GPL--3.0-orange)](https://github.com/mustafadalga/sanitize-email/blob/main/LICENSE)
